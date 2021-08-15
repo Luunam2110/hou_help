@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "HOU Help",
+    "slug": "hou_help",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/Res/Image/logo.png",
+    "splash": {
+      "image": "./src/Res/Image/houhelp.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./src/Res/Image/logo.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "vn.edu.hou.help"
+    },
+    "web": {
+      "favicon": "./src/Res/Image/logo.png"
+    },
+    "description": "",
+    "githubUrl": "https://github.com/hou-edu-vn/hou-help/tree/Nam"
+  }
+}
